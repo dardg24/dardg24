@@ -14,7 +14,7 @@ Actively champions MLOps practices, navigating the end-to-end machine learning l
 
 ## Tools for exploring the data universe.
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="60" alt="Amazon AWS">
   </a>
@@ -42,7 +42,9 @@ Actively champions MLOps practices, navigating the end-to-end machine learning l
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="60" alt="MySQL">
   </a>
-</div>
+</p>
+
+
 
 # My Stats
 
