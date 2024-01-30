@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=000000DF&background=FF151500&center=true&random=false&width=600&lines=!Hello+World%C2%A1;Welcome+to+my+data+projects" alt="Hello World! Welcome to my data projects">
+  </a>
+</p>
+
+
+__________
 
 ![Daniel](https://github.com/dardg24/dardg24/assets/143126480/1a3e7fd0-9015-4e0b-aeee-a5caaa73794c)
 
@@ -11,7 +19,7 @@ Proficient in transforming raw data into actionable insights through predictive 
 Well-versed in handling big data technologies, databases, and ETL processes, optimizing data architectures for performance and scalability. 
 
 Actively champions MLOps practices, navigating the end-to-end machine learning lifecycle from development to deployment and monitoring. Fueled by a passion for innovation, I excel in creating scalable and sustainable data ecosystems that drive business success.
-
+_____________________
 ## Tools for exploring the data universe.
 
 <p align="center">
@@ -46,7 +54,7 @@ Actively champions MLOps practices, navigating the end-to-end machine learning l
 
 
 
-# My Stats
+## My stats
 
 <table align="center" style="margin: 20px 20px; background-color: #2d2d2d; border-radius: 10px;">
   <tr>
@@ -64,7 +72,7 @@ Actively champions MLOps practices, navigating the end-to-end machine learning l
 
 
 
-## free feel in the touch
+## Free feel in touch
 <a href="https://www.linkedin.com/in/danielrdegouveia/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
 </a>
